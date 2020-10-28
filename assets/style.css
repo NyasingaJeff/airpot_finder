@@ -1,0 +1,5 @@
+.hero.is-medium.is-primaryy{
+    background-repeat: no-repeat;
+    background: url("./img/bulb.jpg");
+    background-size: cover;
+}
